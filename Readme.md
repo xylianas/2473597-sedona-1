@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Юлиана](https://up.htmlacademy.ru/htmlcss-individual/1/user/2473597).
-* Наставник: `Неизвестно`.
+* Наставник: [Артём Картавый](https://htmlacademy.ru/profile/id942149).
 
 ---
 
